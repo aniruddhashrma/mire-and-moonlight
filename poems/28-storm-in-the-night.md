@@ -2,14 +2,14 @@
 
 storm in the night
 
-the mother eagle
+the mother eagle\
 shields her chicks
 
-they are hungry
+they are hungry\
 but dry
 
-the wind threatens
+the wind threatens\
 to strip them from nest
 
-morning
+morning\
 half empty

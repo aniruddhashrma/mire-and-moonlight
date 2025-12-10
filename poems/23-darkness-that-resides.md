@@ -1,11 +1,11 @@
 # xxiii
 
-darkness
-that resides
+darkness\
+that resides\
 within
 
-shines
-upon what chooses
+shines\
+upon what chooses\
 not to be
 
 hunger

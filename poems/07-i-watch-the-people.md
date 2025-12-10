@@ -1,10 +1,10 @@
 # vii
 
-I watch the people
+I watch the people\
 on this street
 
-the crowd—
+the crowd—\
 crooked river
 
-my face disappears
+my face disappears\
 in its waves

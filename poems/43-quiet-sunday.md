@@ -1,10 +1,10 @@
 # xliii
 
-quiet sunday
+quiet sunday\
 sitting
 
-the blinds closed
+the blinds closed\
 hot summer sun
 
-barn cats
+barn cats\
 sleep

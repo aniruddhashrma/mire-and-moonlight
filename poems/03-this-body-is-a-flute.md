@@ -1,10 +1,10 @@
 # iii
 
-this body is a flute
-warm wind breathes
+this body is a flute\
+warm wind breathes\
 through hollow bones
 
-sea of bamboo
+sea of bamboo\
 sways in the breeze
 
 the song of no place

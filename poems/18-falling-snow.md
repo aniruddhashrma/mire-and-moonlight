@@ -1,11 +1,11 @@
 # xviii
 
-falling snow
+falling snow\
 bends tree
 
-river frozen
+river frozen\
 morning silence
 
-no flowers
-no fruit
+no flowers\
+no fruit\
 perfect harvest

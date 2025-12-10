@@ -1,8 +1,8 @@
 # xiii
 
-kitten
-fearless
+kitten\
+fearless\
 kung fu master
 
-laughter rises
+laughter rises\
 from the belly

@@ -1,15 +1,15 @@
 # xxvii
 
-in the shade
+in the shade\
 of the oak grove
 
-ant toiling
-without
+ant toiling\
+without\
 ever knowing sun
 
-never
+never\
 to cast shadow
 
-come fall—
-she will meet
+come fall—\
+she will meet\
 her end

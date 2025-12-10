@@ -1,12 +1,12 @@
 # xvi
 
-still pond
-reflects moon
+still pond\
+reflects moon\
 and cloud
 
 rain falls
 
-nothing
+nothing\
 to reflect
 
 only quiet

@@ -1,8 +1,8 @@
 # viii
 
-rain washed away
+rain washed away\
 the road home
 
-a chance
-to wander
+a chance\
+to wander\
 someplace new

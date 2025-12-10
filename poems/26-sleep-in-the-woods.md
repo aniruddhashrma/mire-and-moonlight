@@ -1,10 +1,10 @@
 # xxvi
 
-sleep
-in the woods
+sleep\
+in the woods\
 dream
 
-decompose
+decompose\
 become flowers
 
 sweet, dark earth

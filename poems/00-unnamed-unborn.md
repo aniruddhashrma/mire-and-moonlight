@@ -1,17 +1,17 @@
 # 0
 
-unnamed
+unnamed\
 unborn
 
-sit stand move
+sit stand move\
 effort ceases
 
-no narrator no witness
+no narrator no witness\
 no method no goal
 
 raw perception
 
-life lives itself
+life lives itself\
 "I" appears — let it
 
 just this

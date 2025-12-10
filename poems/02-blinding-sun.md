@@ -1,9 +1,9 @@
 # ii
 
-blinding sun
-unseen birdsong
+blinding sun\
+unseen birdsong\
 rustling trees
 
-eyes down
-this path
+eyes down\
+this path\
 walks itself

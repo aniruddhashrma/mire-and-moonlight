@@ -1,14 +1,14 @@
 # xxi
 
-Buzzards often
+Buzzards often\
 gather here
 
-Death comes easy
-to those who walk
+Death comes easy\
+to those who walk\
 this way
 
-There are many temples
+There are many temples\
 along this road
 
-lonely,
+lonely,\
 but still standing

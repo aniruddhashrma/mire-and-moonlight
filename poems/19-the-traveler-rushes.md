@@ -1,14 +1,14 @@
 # xix
 
-the traveler
-rushes his way
+the traveler\
+rushes his way\
 home
 
 at sunset
 
-they watch him
-passing
+they watch him\
+passing\
 from the train
 
-until he
+until he\
 disappears.

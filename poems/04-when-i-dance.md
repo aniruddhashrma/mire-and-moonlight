@@ -1,12 +1,12 @@
 # iv
 
-when I dance
-in the dark
-the night
+when I dance\
+in the dark\
+the night\
 grows quiet
 
-falling disarmed
+falling disarmed\
 becoming
 
-nothing
+nothing\
 with the warm wind
